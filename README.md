@@ -1,2 +1,2 @@
 # skillmaxxing
-Solving world problems with C++
+Solving world hunger problems with C++
